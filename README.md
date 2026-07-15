@@ -1,5 +1,7 @@
 # entrywatch
 
+process
+
 activate env
 ```python
 source /home/squidward/hailo-apps/venv_hailo_apps/bin/activate
